@@ -1,5 +1,7 @@
 
 const int piezoPin = 9; 
+//here we will soon change
+
 
 int sensorValue = 0;
 int sensorPin = A5;  
